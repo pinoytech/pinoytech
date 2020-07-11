@@ -1,4 +1,4 @@
-# Hello, I am Teej!
+# Hello, I am Teej! :+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
 
 I am web developer & programmer. I make rich web applications, usually with **ReactJS** and **Ruby on Rails**. I've recently been working with **NodeJS** in web applications
 

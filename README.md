@@ -1,4 +1,4 @@
-Hello, I am Teej!
+# Hello, I am Teej!
 
 **Backend Development** — I have been developing web applications since 2003. I started as a PHP developer working with _CodeIgniter_ and _CakePHP_. I have been using Ruby and along with the **Ruby on Rails** framework for the past 9 years. I have used it for all sorts of projects; full CMS websites, database-driven web applications and REST-driven frontend applications.
 

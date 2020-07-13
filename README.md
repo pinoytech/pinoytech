@@ -12,4 +12,8 @@ I am <del>project manager</del>, web developer & programmer. I make rich web app
 
 _PHP_ **jQuery** **Ruby** <del>ASP Classic</del> </del>MSAccess</del> **MySQL** _CodeIgniter_ _VueJS_ **React** **Redux** _Wordpress_ **Gatsby** **Sass** _Angular_ **ExpressJS** _SQLite_ **NodeJS** **KnexJS**
 
-:trollface: :+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
+### Want to Learn...
+
+Elixir Go
+
+:trollface: :+1: :camel: :tada: :rocket: :metal: :octocat:

@@ -10,10 +10,10 @@ I am <del>project manager</del>, web developer & programmer. I make rich web app
 
 ### Skills over the years...
 
-**Ruby** _PHP_ **jQuery** <del>ASP Classic</del> </del>MSAccess</del> **MySQL** _CodeIgniter_ _VueJS_ **React** **Redux** _Wordpress_ **Gatsby** **Sass** _Angular_ **ExpressJS** _SQLite_ **NodeJS** **KnexJS**
+**Ruby** _PHP_ **jQuery** <del>ASP Classic</del> </del>MSAccess</del> **MySQL** _CodeIgniter_ _VueJS_ **React** **Redux** _Wordpress_ **Gatsby** **Sass** _Angular_ **ExpressJS** _SQLite_ **NodeJS** **KnexJS** _Shopify App Development_
 
 ### Want to Learn...
 
-I have always been fascinated by other languages. I have a few languages on my radar, namely Elixir and Go. I haven't had the opportunity to work with them but I am keeping my keyboard and fingers warm for a chance to get at them.
+I have always been fascinated by other languages. I have a few languages on my radar, namely Elixir and Go. I haven't had the opportunity to professionally work with them but I am keeping my keyboard and fingers warm for a chance to get at them.
 
 :trollface: :+1: :camel: :tada: :rocket: :metal: :octocat:

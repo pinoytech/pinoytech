@@ -1,6 +1,6 @@
 # Hello, I am Teej!
 
-I am <del>project manager</del>, web developer & programmer. I make rich web applications, usually with **ReactJS** and **Ruby on Rails**. I've recently been working with **NodeJS** in web applications
+I am <del>project manager</del>, web developer & programmer. I make rich web applications, usually with **ReactJS** and **Ruby on Rails**. I've recently been working with database-driven **NodeJS** web applications.
 
 ### Currently...
 
@@ -10,7 +10,7 @@ I am <del>project manager</del>, web developer & programmer. I make rich web app
 
 ### Skills over the years...
 
-**Ruby** _PHP_ **jQuery** <del>ASP Classic</del> </del>MSAccess</del> **MySQL** _CodeIgniter_ _VueJS_ **React** **Redux** _Wordpress_ **Gatsby** **Sass** _Angular_ **ExpressJS** _SQLite_ **NodeJS** **KnexJS** _Shopify App Development_
+**Ruby** _PHP_ **jQuery** <del>ASP Classic</del> </del>MSAccess</del> **MySQL** _CodeIgniter_ _VueJS_ **React** _Redux_ **PostgreSQL** _Wordpress_ **Gatsby** **Sass** _Angular_ **ExpressJS** _SQLite_ **NodeJS** **KnexJS** _Shopify App Development_
 
 ### Want to Learn...
 

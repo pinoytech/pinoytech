@@ -1,6 +1,6 @@
 ## Hello, I am Teej!
 
-I am <del>project manager</del>, web developer & programmer. I make rich web applications, usually with **ReactJS** and **Ruby on Rails**. I've recently been working with database-driven **NodeJS** web applications with **ExpressJS** and more recently _KoaJS_.
+I am <del>project manager</del>, web developer & programmer. I make rich web applications, usually with **ReactJS** and **Ruby on Rails**. Alongside Ruby and Rails development, I've recently been working with database-driven **NodeJS** web applications with **ExpressJS**, **NextJS** and more recently _NestJS_ in my free time.
 
 ### Background...
 

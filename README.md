@@ -10,7 +10,7 @@ I am <del>project manager</del>, web developer & programmer. I make rich web app
 
 ### Skills over the years...
 
-**Ruby / Rails** **React** **NodeJS** **KnexJS** **Jest** **React Testing Library** _Enzyme_ **MySQL**  _VueJS_ _Redux_ _redux-thunk_ **PostgreSQL** _Wordpress_ **Gatsby** <del>CakePHP</del> **Sass** _Angular_ **ExpressJS** _SQLite_ **NodeJS** _TypeORM_ _Sequelize_ **Shopify App Development** **NextJS** _PHP_ **jQuery** <del>ASP Classic</del> <del>MSAccess</del> _CodeIgniter_ _NestJS_
+**Ruby/Rails** **React** _TypeORM_ **React Testing Library** **RSpec** **Jest** **KnexJS**  _Enzyme_ **MySQL**  _VueJS_ **Redux** **redux-thunk** **PostgreSQL** _Wordpress_ _Gatsby_ ~~CakePHP~~ **Sass** _Angular_ **ExpressJS** _SQLite_ **NodeJS**  _Sequelize_ **Shopify App Development** **NextJS** _PHP_ **jQuery** ~~ASP Classic~~ ~~MSAccess~~ _CodeIgniter_ _NestJS_
 
 ### Want to Learn...
 

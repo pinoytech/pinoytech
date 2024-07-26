@@ -14,6 +14,6 @@ I am <del>project manager</del>, web developer & programmer. I make rich web app
 
 ### Want to Learn...
 
-I have always been fascinated by other programming languages. I have a few languages on my radar, namely Elixir and Go. I haven't had the opportunity to professionally work with them but I am keeping my keyboard and fingers warm for a chance to get at them.
+I have always been fascinated by other programming languages. I have a language on my radar which is Dart to be used with the web and mobile development. I haven't had the opportunity to professionally work with it but I am keeping my keyboard and fingers warm for a chance to get at them.
 
 :trollface: :+1: :camel: :tada: :rocket: :metal: :octocat:

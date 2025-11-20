@@ -1,4 +1,4 @@
-## Hello, I am Teej!
+## Hello, I am Teej! 💻 ☕
 
 I am <del>project manager</del>, web developer & programmer. I make rich web applications, usually with **NodeJS** **React** and **Ruby on Rails**. Alongside Ruby and Rails and NodeJS development, I've recently been working with database-driven Shopify applications.
 

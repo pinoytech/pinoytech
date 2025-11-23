@@ -16,7 +16,7 @@ I am <del>project manager</del>, web developer & programmer. I make rich web app
 ## TLDR;
 
 - **Frontend**  - React, Next.js, TailwindCSS, Redux, SWR
-- **Backend**   - Node.js, Ruby on Rails, Express, NestJS, KnexJS
+- **Backend**   - Node.js, Ruby on Rails, Express, NestJS, KnexJS, Laravel
 - **Databases** - PostgreSQL, MySQL
 
 :trollface: :+1: :camel: :tada: :rocket: :metal: :octocat:

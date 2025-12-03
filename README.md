@@ -13,7 +13,7 @@ I am <del>project manager</del>, web developer & programmer. I make rich web app
 **Ruby/Rails** **React** _TypeORM_ **React Testing Library** **RSpec** **Jest** **KnexJS**  _Enzyme_ **MySQL**  _VueJS_ **Redux** **redux-thunk** **PostgreSQL** _Wordpress_ _Gatsby_ ~~CakePHP~~ **Sass** ~~Angular~~ **ExpressJS** _SQLite_ **NodeJS**  _Sequelize_ **Shopify App Development** **NextJS** _PHP_ **jQuery** ~~ASP Classic~~ ~~MSAccess~~ _CodeIgniter_ _NestJS_
 
 
-## TLDR;
+## TL;DR
 
 - **Frontend**  - React, Next.js, TailwindCSS, Redux, SWR
 - **Backend**   - Node.js, Ruby on Rails, Express, NestJS, KnexJS, Laravel

@@ -4,7 +4,7 @@ I am <del>project manager</del>, web developer & programmer. I make rich web app
 
 ### Background...
 
-**Backend Development** — I have been developing web applications since 2003. I started as a PHP developer working with _CodeIgniter_ and _CakePHP_. I have been using Ruby and along with the **Ruby on Rails** framework for the past 13 years. I have used it for all sorts of projects; full CMS websites, database-driven web applications and REST-driven frontend applications. Using my experience with Javascript, I've created several **Ruby** and **NodeJS** projects that is used by thousands of users around the world 🥰.
+**Backend Development** — I have developed web applications since 2003. I began as a PHP developer with CodeIgniter and CakePHP and have used Ruby on Rails for the past 13 years, continuing to contribute to Rails projects alongside newer work. I have built full CMS sites, database-driven web applications, and RESTful backends for front-end apps. Over the past four years I have focused heavily on Node.js, developing multiple large-scale applications used by thousands of users worldwide. 🥰.
 
 **Frontend Development** — Developing with **Javascript** has been been very exciting in the past 5 years. **React** has been my tool of choice when it comes to frontend development.
 

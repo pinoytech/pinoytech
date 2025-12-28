@@ -1,6 +1,6 @@
 ## Hello, I am Teej! 💻 ☕
 
-I am <del>project manager</del>, web developer & programmer. I make rich web applications, usually with **NodeJS** **React** and **Ruby on Rails**. Alongside Ruby and Rails and NodeJS development, I've recently been working with database-driven Shopify applications.
+I started hacking on IRC scripts making bots in the 2000's and has been hacking on computers (and businesses) ever since. I am <del>project manager</del>, web developer & programmer. I make rich web applications, usually with **NodeJS** **React** and **Ruby on Rails**. Alongside Ruby and Rails and NodeJS development, I've recently been working with database-driven Shopify applications.
 
 ### Background...
 
